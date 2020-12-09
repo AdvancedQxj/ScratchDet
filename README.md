@@ -1,3 +1,4 @@
+论文：ScratchDet: Training Single-Shot Object Detectors From Scratch
 # ScratchDet: Training Single-Shot Object Detectors from Scratch
 
 
